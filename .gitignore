@@ -1,0 +1,63 @@
+# ==============================================================================
+# STM32CubeIDE / Eclipse (Generated build files and local settings)
+# ==============================================================================
+Debug/
+Release/
+bin/
+build/
+.settings/
+.launch
+
+# Generated STM32 files usually not needed in repo if you have the .ioc
+Drivers/STM32*_HAL_Driver/
+Middlewares/ST/
+# Attention : Garde 'Drivers' et 'Middlewares' si tu as fait des modifs dedans
+# Si ce sont ceux par défaut générés par CubeMX, tu peux les ignorer,
+# mais par sécurité, on les garde souvent.
+
+# Eclipse specific metadata (Optionnel : commente si tu veux partager la config projet)
+# .cproject
+# .project
+# .mxproject
+
+# ==============================================================================
+# Qt Creator (Local settings and build folders)
+# ==============================================================================
+# User specific settings (Vital à ignorer !)
+*.pro.user
+*.pro.user.*
+CMakeLists.txt.user*
+
+# Build directories (Shadow builds)
+build-*/
+debug/
+release/
+
+# Generated intermediate files
+Makefile*
+object_script.*
+*.o
+*.obj
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.a
+*.lib
+
+# ==============================================================================
+# General / OS Junk
+# ==============================================================================
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# ==============================================================================
+# Executables / Binaries
+# ==============================================================================
+*.elf
+*.bin
+*.hex
+*.map

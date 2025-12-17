@@ -1,0 +1,48 @@
+desenet-common/mdw/clockwork/clockwork.o: \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/clockwork/clockwork.cpp \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/platform/nucleo-stm32l476rg/platform-config.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/desenet/desenet.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/desenet/types.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/SharedByteBuffer \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/sharedbytebuffer.hpp \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/SharedBuffer \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/sharedbuffer.hpp \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/desenet/address.hpp \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/trace/Trace \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/trace/trace.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xftimeoutmanager.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xftimeout.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/ixfevent.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfevent.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xf.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfthread.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfeventqueue.hpp \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/clockwork/clockwork.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfreactive.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/ixfreactive.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfeventstatus.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfnulltransition.h \
+ E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/clockwork/ttime.h
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/platform/nucleo-stm32l476rg/platform-config.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/desenet/desenet.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/desenet/types.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/SharedByteBuffer:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/sharedbytebuffer.hpp:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/SharedBuffer:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/containers/sharedbuffer.hpp:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/desenet/address.hpp:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/trace/Trace:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/trace/trace.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xftimeoutmanager.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xftimeout.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/ixfevent.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfevent.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xf.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfthread.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfeventqueue.hpp:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/clockwork/clockwork.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfreactive.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/ixfreactive.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfeventstatus.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/ide-stm32cubeide/../src/xf/xfnulltransition.h:
+E:/DeSem/Projet/desenet-work/work/desenet-sensor/src/common/mdw/clockwork/ttime.h:
